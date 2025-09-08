@@ -27,3 +27,18 @@
 
 **After running the script (output):**  
 ![proc_watch_after](examples/proc_watch_after.png)
+
+### 3. port_scan.sh
+**Purpose:** Detects open TCP ports on localhost.  
+**Learning Focus:** Port monitoring, basic network awareness, logging results.  
+
+**Examples:**  
+
+**Code:**  
+![port_scan_code](examples/port_scan_code.png)  
+
+**Before running the script:**  
+![port_scan_before](examples/port_scan_before.png)  
+
+**After running the script (example output):**  
+![port_scan_after](examples/port_scan_after.png)
