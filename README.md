@@ -1,7 +1,7 @@
 # Project Axis — Phase 2: Security Monitoring Tools
 
 This repository is part of **Project Axis**, documenting my cybersecurity journey.  
-Phase 2 focuses on building security monitoring skills, including file cleanup, process monitoring, port scanning, and network activity logging.
+Phase 2 focuses on building security monitoring skills, including authentication monitoring, process monitoring, port scanning, and network activity logging.
 
 All scripts include safety checks and anonymization for privacy, and are fully documented with example outputs.
 
@@ -15,23 +15,29 @@ All scripts include safety checks and anonymization for privacy, and are fully d
 
 ## 🛠️ Scripts
 
-### 1. file_cleaner.sh
-**Purpose:** Cleans temporary, backup, and unnecessary files from the system.  
-**Learning Focus:** File management, scripting automation, cleanup procedures.  
+### 1. auth_monitor.sh
+**Purpose:** Monitors failed login attempts and logs them for review.  
+**Learning Focus:** Authentication monitoring, log parsing, anonymization.  
 **Examples:**  
+<<<<<<< HEAD
 - ![file_cleaner_code](examples/auth_monitor_code.png)  
 - ![file_cleaner_before](examples/auth_monitor_before.png)  
 - ![file_cleaner_after](examples/auth_monitor_after.png)
+=======
+- ![auth_monitor_code](examples/auth_monitor_code.png)  
+- ![auth_monitor_before](examples/auth_monitor_before.png)  
+- ![auth_monitor_after](examples/auth_monitor_after.png)
+>>>>>>> 19b25c9 (Reformat Phase 2 README to match Linux-Toolset style)
 
 ---
 
-### 2. proc_watch.sh
-**Purpose:** Monitors running processes and flags high CPU usage.  
-**Learning Focus:** Process monitoring, filtering output, basic system alerts.  
+### 2. net_activity.sh
+**Purpose:** Logs active network connections with timestamps.  
+**Learning Focus:** Network monitoring, logging, anonymization, timestamping.  
 **Examples:**  
-- ![proc_watch_code](examples/proc_watch_code.png)  
-- ![proc_watch_before](examples/proc_watch_before.png)  
-- ![proc_watch_after](examples/proc_watch_after.png)
+- ![net_activity_code](examples/net_activity_code.png)  
+- ![net_activity_before](examples/net_activity_before.png)  
+- ![net_activity_after](examples/net_activity_after.png)
 
 ---
 
@@ -45,13 +51,13 @@ All scripts include safety checks and anonymization for privacy, and are fully d
 
 ---
 
-### 4. net_activity.sh
-**Purpose:** Logs active network connections with timestamps.  
-**Learning Focus:** Network monitoring, logging, anonymization, timestamping.  
+### 4. proc_watch.sh
+**Purpose:** Monitors running processes and records changes over time.  
+**Learning Focus:** Process auditing, system activity logging, automation.  
 **Examples:**  
-- ![net_activity_code](examples/net_activity_code.png)  
-- ![net_activity_before](examples/net_activity_before.png)  
-- ![net_activity_after](examples/net_activity_after.png)
+- ![proc_watch_code](examples/proc_watch_code.png)  
+- ![proc_watch_before](examples/proc_watch_before.png)  
+- ![proc_watch_after](examples/proc_watch_after.png)
 
 ---
 
