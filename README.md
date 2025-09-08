@@ -22,7 +22,6 @@ All scripts include safety checks and anonymization for privacy, and are fully d
 - ![auth_monitor_code](examples/auth_monitor_code.png)  
 - ![auth_monitor_before](examples/auth_monitor_before.png)  
 - ![auth_monitor_after](examples/auth_monitor_after.png)
->>>>>>> 19b25c9 (Reformat Phase 2 README to match Linux-Toolset style)
 
 ---
 
