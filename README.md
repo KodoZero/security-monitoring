@@ -19,9 +19,9 @@ All scripts include safety checks and anonymization for privacy, and are fully d
 **Purpose:** Cleans temporary, backup, and unnecessary files from the system.  
 **Learning Focus:** File management, scripting automation, cleanup procedures.  
 **Examples:**  
-- ![file_cleaner_code](examples/file_cleaner_code.png)  
-- ![file_cleaner_before](examples/file_cleaner_before.png)  
-- ![file_cleaner_after](examples/file_cleaner_after.png)
+- ![file_cleaner_code](examples/auth_monitor_code.png)  
+- ![file_cleaner_before](examples/auth_monitor_before.png)  
+- ![file_cleaner_after](examples/auth_monitor_after.png)
 
 ---
 
