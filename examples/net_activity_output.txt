@@ -1,0 +1,13 @@
+=== Mon Sep  8 02:28:07 EDT 2025 ===
+Netid State  Recv-Q Send-Q  Local Address:Port  Peer Address:PortProcess
+udp   UNCONN 0      0          XXX.XXX.XXX.XXX:53         0.0.0.0:*          
+udp   UNCONN 0      0       XXX.XXX.XXX.XXX%lo:53         0.0.0.0:*          
+udp   UNCONN 0      0      XXX.XXX.XXX.XXX:53         0.0.0.0:*          
+udp   UNCONN 0      0           XXX.XXX.XXX.XXX:323        0.0.0.0:*          
+udp   UNCONN 0      0             XXX.XXX.XXX.XXX:50777      0.0.0.0:*          
+udp   UNCONN 0      0               [::1]:323           [::]:*          
+tcp   LISTEN 0      1000   XXX.XXX.XXX.XXX:53         0.0.0.0:*          
+tcp   LISTEN 0      511         XXX.XXX.XXX.XXX:6379       0.0.0.0:*          
+tcp   LISTEN 0      4096       XXX.XXX.XXX.XXX:53         0.0.0.0:*          
+tcp   LISTEN 0      4096    XXX.XXX.XXX.XXX%lo:53         0.0.0.0:*          
+tcp   LISTEN 0      511             [::1]:6379          [::]:*          

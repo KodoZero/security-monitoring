@@ -42,3 +42,12 @@
 
 **After running the script (example output):**  
 ![port_scan_after](examples/port_scan_after.png)
+
+### 4. net_activity.sh
+**Purpose:** Logs active network connections with timestamps.  
+**Learning Focus:** Network monitoring, logging, anonymization, timestamping.  
+
+**Examples:**  
+- ![net_activity_code](examples/net_activity_code.png)  
+- ![net_activity_before](examples/net_activity_before.png)  
+- ![net_activity_after](examples/net_activity_after.png)
