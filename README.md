@@ -19,11 +19,6 @@ All scripts include safety checks and anonymization for privacy, and are fully d
 **Purpose:** Monitors failed login attempts and logs them for review.  
 **Learning Focus:** Authentication monitoring, log parsing, anonymization.  
 **Examples:**  
-<<<<<<< HEAD
-- ![file_cleaner_code](examples/auth_monitor_code.png)  
-- ![file_cleaner_before](examples/auth_monitor_before.png)  
-- ![file_cleaner_after](examples/auth_monitor_after.png)
-=======
 - ![auth_monitor_code](examples/auth_monitor_code.png)  
 - ![auth_monitor_before](examples/auth_monitor_before.png)  
 - ![auth_monitor_after](examples/auth_monitor_after.png)
