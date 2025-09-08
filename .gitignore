@@ -1,0 +1,17 @@
+# Ignore temporary or test folders
+test_logs/
+temp/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Ignore log, tmp, and backup files
+*.log
+*.tmp
+*.bak
+*.old
+
+# Ignore editor backups
+*~
